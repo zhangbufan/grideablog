@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.chenxionglin.cn</id>
     <title>Gridea</title>
-    <updated>2020-03-06T04:51:21.824Z</updated>
+    <updated>2020-03-06T05:11:23.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.chenxionglin.cn"/>
     <link rel="self" href="https://www.chenxionglin.cn/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://www.chenxionglin.cn/images/avatar.png</logo>
     <icon>https://www.chenxionglin.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[来一篇测试的]]></title>
+        <id>https://www.chenxionglin.cn/post/lai-yi-pian-ce-shi-de/</id>
+        <link href="https://www.chenxionglin.cn/post/lai-yi-pian-ce-shi-de/">
+        </link>
+        <updated>2020-03-06T05:10:57.000Z</updated>
+        <content type="html"><![CDATA[<p>发布到了github上了</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://www.chenxionglin.cn/post/hello-gridea/</id>
